@@ -8,7 +8,7 @@
 `TODO://` A simple flashcard app with questions and their corresponding answers
 
 ### App Walk-though
-<img src="Flashcard.gif" width=200><br>
+
 https://recordit.co/HU14WPXHr6 
 
 ## Required
