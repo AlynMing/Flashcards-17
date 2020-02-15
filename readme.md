@@ -8,7 +8,7 @@
 `TODO://` A simple flashcard app with questions and their corresponding answers
 
 ### App Walk-though
-<img src=https://recordit.co/HU14WPXHr6 width=200><br>
+https://recordit.co/HU14WPXHr6 
 
 ## Required
 - [X] Create New Project in Xcode
