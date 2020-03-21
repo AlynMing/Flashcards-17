@@ -1,5 +1,24 @@
 📝 `NOTE` Paste this template at the top of your existing `README.md` file from the last lab.
 
+## Lab 3
+
+### App Description
+`TODO://` Add app description
+
+### App Walk-though
+https://recordit.co/XxxsiR5gAg
+
+## Required
+- [X] User can browse through multiple flashcards
+- [X] User can re-open the app and see previously created flashcards
+- [X] Push code to GitHub
+## Optional
+- [ ] User can delete a flashcard
+- [ ] User can edit existing flashcard
+- [ ] User can store multiple choice questions
+📝 `NOTE` Paste this template at the top of your existing `README.md` file from the last lab.
+
+
 ## Lab 2
 
 ### App Description
